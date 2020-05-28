@@ -23,7 +23,7 @@
 - [第九周任务清单.md](https://github.com/gdut-very-good/docs/blob/master/第九周任务清单.md)
 - [第十二周任务清单.md](https://github.com/gdut-very-good/docs/blob/master/第十二周任务清单.md)
 - [Alpha1.0后台接口分工.md](https://github.com/gdut-very-good/docs/blob/master/Alpha1.0后台接口分工.md)
-- [Alpha3.0后台接口分工.md]([https://github.com/gdut-very-good/docs/blob/master/Alpha3.0%E5%90%8E%E5%8F%B0%E6%8E%A5%E5%8F%A3%E5%88%86%E5%B7%A5.md](https://github.com/gdut-very-good/docs/blob/master/Alpha3.0后台接口分工.md))
+- [Alpha3.0后台接口分工.md](https://github.com/gdut-very-good/docs/blob/master/Alpha1.0后台接口分工.md)
 
 
 
